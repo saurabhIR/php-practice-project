@@ -1,0 +1,137 @@
+.reviews {
+  display: none;
+}
+
+.show-reviews {
+  display: block;
+}
+.reviews {
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin: 10px 0;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sig-review {
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.sig-review:last-child {
+  margin-bottom: 0;
+}
+
+.sig-review h4 {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.sig-review p {
+  font-size: 1em;
+  margin: 0;
+  color: #555;
+}
+
+.sig-review span {
+  font-size: 0.8em;
+  color: #999;
+  margin-right: 10px;
+}
+
+.sig-review p:first-child {
+  margin-top: 10px;
+}
+
+.sig-review p:last-child {
+  margin-bottom: 0;
+}
+
+.sig-review:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.data-fetch {
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.data-fetch h2 {
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.data-fetch img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.data-fetch p {
+  font-size: 1em;
+  margin: 0;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.data-fetch p strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.data-fetch button {
+  font-size: 1em;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.data-fetch button:hover {
+  background-color: #0069d9;
+}
+.data-fetch:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+/* New styles for color */
+
+.data-fetch {
+  background-color: #f7f7f7;
+}
+
+.data-fetch h2 {
+  color: #2c3e50;
+}
+
+.data-fetch p {
+  color: #555;
+}
+
+.data-fetch button {
+  background-color: #27ae60;
+  color: #fff;
+}
+
+.data-fetch button:hover {
+  background-color: #2ecc71;
+}
