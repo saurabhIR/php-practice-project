@@ -1,0 +1,153 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Space Grotesk", sans-serif;
+}
+.container{
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.flex-justify-between{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+.flex-justify-centre{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.head-left img{
+  height: 50px;
+}
+.fa-user{
+  font-size: 20px;
+  color: rgb(200, 0, 0);
+}
+.feed-questions, .feed-display{
+  display: flex;
+  justify-content: center;
+}
+
+.data-fetch {
+  background: #eee9e0;
+  padding: 20px 30px;
+  width: 400px;
+  box-shadow: 5px 5px 5px #c5c5c5;
+  border-radius: 10px;
+  line-height: 25px;
+}
+.view-all{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 15px;
+  margin-top: 10px;
+}
+.link {
+  text-align: center;
+  margin: 20px 0px;
+}
+.section-first{
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.buttons {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  padding: 5px 10px;
+  margin: 10px;
+}
+button a {
+  text-decoration: none;
+}
+.details{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.view-all img{
+  width: 100px;
+}
+header{
+  margin-top: 10px;
+}
+
+
+.section-first {
+  padding: 50px 0;
+  background-color: white;
+}
+.view-all {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+}
+.data-fetch {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 30px;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.data-fetch:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.data-fetch h2 {
+  font-size: 1.5em;
+  margin: 0;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.data-fetch h2 a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease-in-out;
+}
+
+.data-fetch h2 a:hover {
+  color: #007bff;
+}
+
+.data-fetch p {
+  font-size: 1em;
+  margin: 0;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.data-fetch p strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.data-fetch img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+} 

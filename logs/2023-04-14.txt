@@ -1,0 +1,231 @@
+[14-Apr-2023 09:58:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
+[14-Apr-2023 12:42:33 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
+[14-Apr-2023 13:12:30 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[14-Apr-2023 13:12:58 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[14-Apr-2023 13:13:05 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[14-Apr-2023 14:27:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:27:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:27:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:27:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:27:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:27:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:27:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:35:27 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:35:52 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:35:57 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:36:34 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewpost.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewpost.php' on line 28
+[14-Apr-2023 14:42:18 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new?please_login_first not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 14:53:50 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new?please_login_first not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 14:54:30 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new?please_login_first not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 14:54:56 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 14:55:00 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 14:56:40 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new.php?Please_login_first not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 14:56:44 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Login/new.php?Please_login_first not found'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Feed.php(83): Core\View::render()
+#1 [internal function]: App\Controllers\Feed->appAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/Core/View.php' on line 30
+[14-Apr-2023 15:58:05 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[14-Apr-2023 17:46:38 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Method createAction not found in controllerApp\Controllers\Feed'
+Stack trace: #0 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#1 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#2 {main}
+Thrown in '/var/www/phpexam.com/html/Core/Controller.php' on line 54

@@ -1,0 +1,583 @@
+[13-Apr-2023 09:36:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:08:09 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 10:37:29 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:44:25 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 10:44:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:44:37 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:44:37 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:54:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:54:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:54:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:56:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:56:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:56:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 10:56:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:06:12 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:12:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:12:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:12:47 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:13:30 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 11:13:38 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:14:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:16:24 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:19:56 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(36): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 36
+[13-Apr-2023 11:21:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 11:21:03 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 11:21:03 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 11:21:03 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 11:21:03 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 11:21:23 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $rows'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(37): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 37
+[13-Apr-2023 11:25:32 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $app_id'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Review/new.php(2): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Review.php(17): Core\View::render()
+#3 [internal function]: App\Controllers\Review->newAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Review/new.php' on line 2
+[13-Apr-2023 11:26:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $app_id'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Review/new.php(2): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Review.php(18): Core\View::render()
+#3 [internal function]: App\Controllers\Review->newAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Review/new.php' on line 2
+[13-Apr-2023 11:27:10 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $app_id'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Review/new.php(2): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Review.php(18): Core\View::render()
+#3 [internal function]: App\Controllers\Review->newAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Review/new.php' on line 2
+[13-Apr-2023 11:27:22 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "id"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Review.php(16): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Review->newAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/App/Controllers/Review.php' on line 16
+[13-Apr-2023 11:27:32 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $app_id'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Review/new.php(2): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Review.php(18): Core\View::render()
+#3 [internal function]: App\Controllers\Review->newAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Review/new.php' on line 2
+[13-Apr-2023 11:29:42 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $app_id'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Review/new.php(2): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Review.php(17): Core\View::render()
+#3 [internal function]: App\Controllers\Review->newAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Review/new.php' on line 2
+[13-Apr-2023 12:01:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "app_id"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Controllers/Review.php(31): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Review->createAction()
+#2 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/phpexam.com/html/App/Controllers/Review.php' on line 31
+[13-Apr-2023 12:29:55 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Incorrect integer value: 'kartik.khandelwal@innoraft.com' for column 'user_id' at row 1'
+Stack trace: #0 /var/www/phpexam.com/html/App/Models/User.php(231): mysqli_query()
+#1 /var/www/phpexam.com/html/App/Controllers/Review.php(33): App\Models\User::rateApp()
+#2 [internal function]: App\Controllers\Review->createAction()
+#3 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/phpexam.com/html/App/Models/User.php' on line 231
+[13-Apr-2023 12:33:42 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Unknown column 'user_id' in 'field list''
+Stack trace: #0 /var/www/phpexam.com/html/App/Models/User.php(231): mysqli_query()
+#1 /var/www/phpexam.com/html/App/Controllers/Review.php(33): App\Models\User::rateApp()
+#2 [internal function]: App\Controllers\Review->createAction()
+#3 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/phpexam.com/html/App/Models/User.php' on line 231
+[13-Apr-2023 13:06:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 13:07:26 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'm TH-11 love this game', '4')' at line 1'
+Stack trace: #0 /var/www/phpexam.com/html/App/Models/User.php(230): mysqli_query()
+#1 /var/www/phpexam.com/html/App/Controllers/Review.php(33): App\Models\User::rateApp()
+#2 [internal function]: App\Controllers\Review->createAction()
+#3 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/phpexam.com/html/App/Models/User.php' on line 230
+[13-Apr-2023 14:27:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(43): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 43
+[13-Apr-2023 15:42:06 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(52): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 52
+[13-Apr-2023 15:42:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(52): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 52
+[13-Apr-2023 15:45:08 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
+[13-Apr-2023 15:45:24 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
+[13-Apr-2023 15:46:51 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
+[13-Apr-2023 15:47:20 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(54): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 54
+[13-Apr-2023 16:07:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 16:23:29 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 16:45:15 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 16:48:08 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "fullname"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Userprofile.php(33): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Userprofile/new.php' on line 28
+[13-Apr-2023 17:08:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
+[13-Apr-2023 17:52:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/phpexam.com/html/App/Views/Feed/viewApp.php(53): Core\Error::errorHandler()
+#1 /var/www/phpexam.com/html/Core/View.php(28): require('...')
+#2 /var/www/phpexam.com/html/App/Controllers/Feed.php(72): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->appAction()
+#4 /var/www/phpexam.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/phpexam.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/phpexam.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/phpexam.com/html/App/Views/Feed/viewApp.php' on line 53
