@@ -1,0 +1,88 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Space Grotesk", sans-serif;
+}
+.container{
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.flex-justify-between{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+.flex-justify-centre{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.head-left img{
+  height: 50px;
+}
+.fa-user{
+  font-size: 20px;
+  color: rgb(200, 0, 0);
+}
+
+
+
+
+.feed-questions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+textarea,
+input[type="file"] {
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  width: 100%;
+  background-color: #fff;
+  color: #333;
+}
+
+input[type="file"]:focus {
+  outline: none;
+  border-color: #4CAF50;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
